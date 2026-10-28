@@ -1,4 +1,3 @@
-
 <?php
 /*
  * Plugin Name: Simple Cart Discount Plugin
